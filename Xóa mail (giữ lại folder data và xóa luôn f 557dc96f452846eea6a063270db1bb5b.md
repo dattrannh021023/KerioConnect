@@ -1,0 +1,1 @@
+# Xóa mail (giữ lại folder data và xóa luôn folder data)

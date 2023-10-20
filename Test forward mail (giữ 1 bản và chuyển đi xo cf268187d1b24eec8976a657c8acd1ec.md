@@ -1,0 +1,1 @@
+# Test forward mail (giữ 1 bản và chuyển đi xóa mail ở mail cũ luôn)
